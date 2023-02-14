@@ -1,3 +1,12 @@
+## Завдання номер 14
+Перевірте чи є задане число [числом Армстронга](https://uk.wikipedia.org/wiki/%D0%A7%D0%B8%D1%81%D0%BB%D0%B0_%D0%90%D1%80%D0%BC%D1%81%D1%82%D1%80%D0%BE%D0%BD%D0%B3%D0%B0)
+
+Число Армстронга це натуральне число, яке в даній системі числення дорівнює сумі своїх цифр, піднесених до степеня, що дорівнює кількості його цифр.
+### Код класу Exercise
+![](5.png)
+### Код класу TestResult
+![](6.png)
+
 [![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-f4981d0f882b2a3f0472912d15f9806d57e124e0fc890972558857b51b24a6f9.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=10134806)
 # Практична робота "Масиви, вирази, керування виконанням програми"
 
